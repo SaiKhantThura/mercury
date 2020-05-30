@@ -1,10 +1,4 @@
-body {
-  margin: 0;
-  padding: 0;
-  width:100vw;
-  height: 100vh;
-  background-color: #eee;
-}
+
 .content {
   display: flex;
   justify-content: center;
@@ -22,7 +16,7 @@ body {
   display:flex;
   justify-content: center;
   align-items: center;
-  z-index: 100;
+  z-index: 9999;
 }
 .loader {
   display: inline-block;

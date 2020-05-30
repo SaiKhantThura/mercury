@@ -6,3 +6,10 @@
 	Note: This is custom css. All custom styles (user styles) declare here.
 
 **********************************************************************************/
+.logo a img{
+	width: 45px;
+}
+
+.color--custom {
+	color: #008628; 
+}
